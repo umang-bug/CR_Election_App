@@ -41,28 +41,28 @@ VALID_IDS = [
 CANDIDATES = [
     {
         "id": 1,
-        "name": "Candidate 1",
+        "name": "Evanta Kumar Bafna",
         "photo": "candidates/candidate1.jpg",
         "statement": "I will bridge the gap between students and faculty, ensuring every voice in our mechanical batch is heard and acted upon.",
         "color": "#FF6B35",
     },
     {
         "id": 2,
-        "name": "Candidate 2",
+        "name": "Ayush Jain",
         "photo": "candidates/candidate2.jpg",
         "statement": "My focus is on industrial visits, better lab access, and strong placement guidance for every student in our batch.",
         "color": "#004E89",
     },
     {
         "id": 3,
-        "name": "Candidate 3",
+        "name": "Rohit Sekhawat",
         "photo": "candidates/candidate3.jpg",
         "statement": "Together we build — I promise transparent communication, more workshops, and a united mechanical community.",
         "color": "#1A936F",
     },
     {
         "id": 4,
-        "name": "Candidate 4",
+        "name": "Chirag",
         "photo": "candidates/candidate4.jpg",
         "statement": "Innovation is our identity. I will push for cutting-edge projects, hackathons, and opportunities that define our batch.",
         "color": "#C84B31",
