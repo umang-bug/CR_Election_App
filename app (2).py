@@ -42,8 +42,8 @@ CANDIDATES = [
     {
         "id": 1,
         "name": "Evanta Kumar Bafna",
-        "photo": "candidates/candidate1.jpg",
-        "statement": "I will bridge the gap between students and faculty, ensuring every voice in our mechanical batch is heard and acted upon.",
+        "photo": "candidates/IMG-20260421-WA0003.jpg",
+        "statement": "Together we rise.",
         "color": "#FF6B35",
     },
     {
